@@ -1,6 +1,6 @@
 # spin_the_wheel
 
-This is spin wheel game app, that
+This is spin wheel game app, that will show lucky wheel. 
 
 ## Getting Started
 
