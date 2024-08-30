@@ -35,8 +35,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
-Insert gif or link to demo
+demo links
 
-https://drive.google.com/file/d/1eP5ymuRbQ_HrXkjg8C2NUvI44g7TMZiB/view?usp=sharing
+Android - https://drive.google.com/file/d/1eP5ymuRbQ_HrXkjg8C2NUvI44g7TMZiB/view?usp=sharing
 
-https://drive.google.com/file/d/1gRS11-kb7s3ZK0E109a6zibvUgjvr9kz/view?usp=sharing
+Web - https://drive.google.com/file/d/1gRS11-kb7s3ZK0E109a6zibvUgjvr9kz/view?usp=sharing
+
+IOS- https://drive.google.com/file/d/1Kd-PRvBn5ZEFSPSUydbNeON7JigKwQtu/view?usp=sharing
