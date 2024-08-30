@@ -1,6 +1,6 @@
 # spin_the_wheel
 
-This is spin wheel game app, that will show lucky wheel. 
+This is spin wheel game app, that will show lucky wheel.
 
 ## Getting Started
 
@@ -14,3 +14,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## flutter commands
+- flutter pub get
+- flutter run
+- flutter devices
+
+## Run Tests
+-flutter test
+
+## Run Integration Tests
+- flutter drive --target=test_driver/app.dart
+
+## Build APK for Android
+- flutter build apk
+
+## Build iOS App
+- flutter build ios
+
